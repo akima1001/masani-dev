@@ -16,5 +16,8 @@ dist/
 # Claude Code (local settings are user-specific)
 .claude/settings.local.json
 
+# Private docs (not for public)
+.private/
+
 # OS
 .DS_Store
