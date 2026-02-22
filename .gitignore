@@ -3,6 +3,10 @@ node_modules/
 
 # Build output
 dist/
+.astro/
+
+# Pagefind search index (generated at build)
+public/pagefind/
 
 # Environment variables
 .env
