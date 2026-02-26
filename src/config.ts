@@ -1,7 +1,7 @@
 export const SITE = {
-  website: "https://masani-dev.workers.dev/", // TODO: replace with custom domain in STEP 4
+  website: "https://masani.dev/",
   author: "masani",
-  profile: "https://masani-dev.workers.dev/",
+  profile: "https://masani.dev/",
   desc: "masani のポートフォリオ兼ブログサイト",
   title: "masani-dev",
   ogImage: "astropaper-og.jpg",
