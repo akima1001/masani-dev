@@ -8,7 +8,7 @@ tags:
   - 個人開発
   - AI
 featured: false
-draft: false
+draft: true
 ---
 
 知人の困りごとを聞いて、その場で作り始めた。
